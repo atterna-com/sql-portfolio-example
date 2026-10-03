@@ -4,6 +4,16 @@
 
 [← All projects](../../README.md)
 
+## Context
+
+Vera must explain the retention drop to the CEO while marketing proposes repeating AUTUMN20 for the December sale. Thursday's plan depends on whether the promotion brought customers who return.
+
+## Why it’s not obvious
+
+The latest cohort may not have had a full return window. Mixing promotion and regular customers, or counting another discounted order as a full-price return, can also change the story.
+
+_Scenario context supplied by Atterna._
+
 > **Finding:** Retention fell because of the cohort's mix: regulars hold up as before, while promotion customers rarely come back at full price and lost the platform money over 60 days.
 >
 > **Key numbers:** **7.20%** Month-1 retention of promotion customers · **−€1.70** Commission net of discounts per promotion customer over 60 days
@@ -262,6 +272,12 @@ _Typed by me; the checker accepted each one within its tolerance._
 _Selected from the options the exercise offered._
 
 **What I claimed from the numbers:** Retention fell because of the cohort's mix: regulars hold up as before, while promotion customers rarely come back at full price and lost the platform money over 60 days.
+
+## What I’d check next
+
+Follow mature cohorts for longer, separating discounted and full-price repeat orders and measuring platform contribution.
+
+_Suggested by the exercise; review and adapt before publishing._
 
 ## How it was checked
 

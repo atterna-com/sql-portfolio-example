@@ -4,6 +4,16 @@
 
 [← All projects](../../README.md)
 
+## Context
+
+Vera needs a recommendation for Thursday's decision on extending the promotion. The dashboard shows record sales, but the team will commit its budget on the analyst's numbers.
+
+## Why it’s not obvious
+
+A join can repeat an order's value on each item and inflate the sales total. Even a genuine sales increase does not show what the platform earned after discounts and advertising.
+
+_Scenario context supplied by Atterna._
+
 > **Finding:** GMV rose in the promo week, but contribution was negative: discounts and ads cost more than all the commission the week earned.
 >
 > **Key numbers:** **−€9,984.50** Platform contribution in the promo week · **79.50%** Share of discounts that went to returning customers

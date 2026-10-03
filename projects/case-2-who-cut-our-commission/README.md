@@ -4,7 +4,17 @@
 
 [← All projects](../../README.md)
 
-> **Finding:** The platform paid €21,516 in discounts; after them, commission fell from €18,206 to €4,961
+## Context
+
+Olga from finance needs an explanation for the lower commission share before Friday's meeting with the CFO. The team needs to know whether a rate was cut or the promotion changed what people bought.
+
+## Why it’s not obvious
+
+A blended commission share can fall when low-commission categories account for more sales, even if every category's rate stays unchanged.
+
+_Scenario context supplied by Atterna._
+
+> **Finding:** Take rate: 12.6% in W37, 11.5% in the promo week.
 >
 > **Key numbers:** **€52,614.13** Electronics GMV, the week before the promo (W37) · **€110,078.61** Electronics GMV, the promo week (W38) · **€21,516.17** Discounts the platform paid in the promo week (W38)
 >

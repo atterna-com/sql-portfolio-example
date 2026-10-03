@@ -4,7 +4,17 @@
 
 [← All projects](../../README.md)
 
-> **Finding:** Product totals add up to €36,095; finance booked €16,073
+## Context
+
+Vera needs a product shortlist before the December promotion goes out. She wants to remove products that cost the most in refunds, and the figures must agree with finance.
+
+## Why it’s not obvious
+
+Joining an order-level refund to every item can count the same money several times. A refund on a multi-item order also does not identify which product was returned.
+
+_Scenario context supplied by Atterna._
+
+> **Finding:** Refunds booked: €16,073 on 323 refunds.
 >
 > **Key numbers:** **€16,072.94** Refunds booked for the three weeks (all requests) · **323** Refund requests in the three weeks
 >

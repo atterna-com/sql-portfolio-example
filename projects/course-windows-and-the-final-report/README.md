@@ -4,6 +4,16 @@
 
 [← All projects](../../README.md)
 
+## Context
+
+Vera needs a category report for the board by Friday evening, with orders, sales, average order value and sales shares. She also wants the leading shop in each category.
+
+## Why it’s not obvious
+
+A category breakdown can look plausible while omitting orders or counting them twice. Its order counts and sales shares need an independent total check.
+
+_Scenario context supplied by Atterna._
+
 ![Bar chart: gmv_eur by category](results/07-report.svg)
 
 ## Business question
@@ -269,6 +279,12 @@ FROM shares
 | orders_in_report | paid_orders | shares_sum |
 | ---: | ---: | ---: |
 | 9071 | 9071 | 100 |
+
+## What I’d check next
+
+Repeat the report for a new period and check its category totals against all paid orders.
+
+_Suggested by the exercise; review and adapt before publishing._
 
 ## How it was checked
 

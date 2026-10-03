@@ -4,6 +4,16 @@
 
 [← All projects](../../README.md)
 
+## Context
+
+Vera needs defensible rules for January's Trusted Shop programme by Wednesday. Arthur proposes using ratings and disabling the ten shops with the worst cancellation rates.
+
+## Why it’s not obvious
+
+A shop with very few orders can look like one of the worst by chance. Ratings can miss operational problems, and looking only at shipped orders hides overdue orders that never shipped.
+
+_Scenario context supplied by Atterna._
+
 > **Finding:** The problem sits with a few shops: 17 shops break the rules, 9 also beyond chance; together they carry 11% of GMV and up to 40% of late shipments.
 >
 > **Key numbers:** **17** Shops with 30+ orders over a threshold · **9** Of them, shops beyond chance (probability under 2.5%)
@@ -224,6 +234,12 @@ _Typed by me; the checker accepted each one within its tolerance._
 _Selected from the options the exercise offered._
 
 **What I claimed from the numbers:** The problem sits with a few shops: 17 shops break the rules, 9 also beyond chance; together they carry 11% of GMV and up to 40% of late shipments. The rating misses most.
+
+## What I’d check next
+
+Recheck cancellations and shipping delays as shops accumulate more orders, and review borderline cases before imposing penalties.
+
+_Suggested by the exercise; review and adapt before publishing._
 
 ## How it was checked
 

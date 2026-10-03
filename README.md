@@ -12,8 +12,8 @@ Work samples from [Atterna](https://atterna.com), a simulator where you learn da
 
 | Project | Business question | What I did | Headline | My call |
 | :--- | :--- | :--- | :--- | :--- |
-| **1.** [Who cut our commission?](projects/case-2-who-cut-our-commission/README.md) | Take rate fell by more than a point in the promo week. | Case study · 3 SQL queries · decision memo from my choices | The platform paid €21,516 in discounts; after them, commission fell from €18,206 to €4,961 | No reversal: the mix explains the drop |
-| **2.** [Refunds that don’t add up](projects/case-3-refunds-that-dont-add-up/README.md) | Vera wants to drop the most-refunded products from the December promo. | Case study · 4 SQL queries · decision memo from my choices | Product totals add up to €36,095; finance booked €16,073 | No defensible cut yet: the ranking moves and item-level evidence is thin |
+| **1.** [Who cut our commission?](projects/case-2-who-cut-our-commission/README.md) | Take rate fell by more than a point in the promo week. | Case study · 3 SQL queries · decision memo from my choices | Take rate: 12.6% in W37, 11.5% in the promo week. | No reversal: the mix explains the drop |
+| **2.** [Refunds that don’t add up](projects/case-3-refunds-that-dont-add-up/README.md) | Vera wants to drop the most-refunded products from the December promo. | Case study · 4 SQL queries · decision memo from my choices | Refunds booked: €16,073 on 323 refunds. | No defensible cut yet: the ranking moves and item-level evidence is thin |
 | **3.** [Record week](projects/meridian-1-record-week/README.md) | The dashboard shows record GMV. What really happened to the money? | Meridian episode 1 · 6 SQL queries · memo in my own words | **−€9,984.50** Platform contribution in the promo week | Stop the promo and run a test |
 | **4.** [The fast-delivery badge](projects/meridian-2-the-fast-delivery-badge/README.md) | Product's report says conversion went up. | Meridian episode 2 · 5 SQL queries · recommendation | On the fair part the badge probably raises conversion: +1.5 pp, 95% interval +0.2 pp to +2.9 pp. | Turn the badge on now for web and app 5.1 and 5.3 |
 | **5.** [Who stays after the first purchase](projects/meridian-3-who-stays-after-the-first-purchase/README.md) | The retention dashboard shows a collapse. | Meridian episode 3 · 5 SQL queries · recommendation | **7.20%** Month-1 retention of promotion customers | A discount only on a new customer's first order over €40 |
@@ -23,7 +23,7 @@ Work samples from [Atterna](https://atterna.com), a simulator where you learn da
 ## About this work
 
 - **Every SQL answer passed Atterna’s automatic checker**, which compares the result with a hidden reference on two versions of the data, so a hard-coded number fails. It is Atterna’s own check, not a third-party certification.
-- **Where a query was handed to me, the project says so.** “Provided by the task” means I ran it as given; “completed from a template” means I finished a starter the task gave me. Every other query is written from scratch.
+- **These are my saved SQL submissions.** Queries supplied by the task and recognised starter templates are labelled. The automatic checks assess the results, not independent authorship.
 - **Words are labelled.** “My own words” is text I typed. “Assembled from my choices” is built from options I selected in the exercise, so it is not free text.
 
 ## How to read this repository

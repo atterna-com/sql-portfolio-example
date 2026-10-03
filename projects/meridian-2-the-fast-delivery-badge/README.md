@@ -4,6 +4,16 @@
 
 [← All projects](../../README.md)
 
+## Context
+
+Vera needs a recommendation for Wednesday's product committee: whether to roll out the fast-delivery badge and charge sellers for it.
+
+## Why it’s not obvious
+
+Missing participants in one app version distort the overall conversion comparison. A bigger-looking gain can reflect a broken experiment as well as the badge.
+
+_Scenario context supplied by Atterna._
+
 > **Finding:** On the fair part the badge probably raises conversion: +1.5 pp, 95% interval +0.2 pp to +2.9 pp.
 >
 > **Key numbers:** **48.60%** Badge group's share of all participants · **0.20 pp** Lower bound of the 95% interval on the fair part
@@ -185,6 +195,12 @@ _Typed by me; the checker accepted each one within its tolerance._
 _Selected from the options the exercise offered._
 
 **What I claimed from the numbers:** On the fair part the badge probably raises conversion: +1.5 pp, 95% interval +0.2 pp to +2.9 pp. A small gain of uncertain size from a test whose first week ran under AUTUMN20, and the test says nothing about app 5.2.
+
+## What I’d check next
+
+In the next test, check the test/control split within each app version and compare conversion and revenue per assigned user.
+
+_Suggested by the exercise; review and adapt before publishing._
 
 ## How it was checked
 
