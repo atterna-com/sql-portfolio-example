@@ -1,0 +1,9 @@
+device,app_version,variant,users,share_pct
+app,5.1,badge,804,50.3759398496
+app,5.1,control,792,49.6240601504
+app,5.2,badge,1247,43.9239168721
+app,5.2,control,1592,56.0760831279
+app,5.3,badge,1162,49.7857754927
+app,5.3,control,1172,50.2142245073
+web,,badge,2450,50.2873563218
+web,,control,2422,49.7126436782

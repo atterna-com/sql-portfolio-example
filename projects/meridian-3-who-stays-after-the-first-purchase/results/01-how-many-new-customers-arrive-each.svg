@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="302" viewBox="0 0 720 302" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title id="t">customers by cohort_month</title>
+<desc id="d">Bar chart, 8 bars: 2026-04-01 256; 2026-05-01 262; 2026-06-01 244; 2026-07-01 241; 2026-08-01 251; 2026-09-01 567; 2026-10-01 255; 2026-11-01 255</desc>
+<rect x="0.5" y="0.5" width="719" height="301" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="20" y="26" font-size="15" font-weight="700" fill="#0E1726">customers by cohort_month</text>
+<line x1="113.0" y1="42" x2="113.0" y2="284" stroke="#CBD5E1" stroke-width="1"/>
+<text x="101" y="57" text-anchor="end" font-size="13" fill="#0E1726">2026-04-01</text>
+<rect x="113.0" y="46" width="250.6" height="18" rx="3" fill="#FF6B35"/>
+<text x="371.6" y="57" font-size="13" font-weight="600" fill="#0E1726">256</text>
+<text x="101" y="87" text-anchor="end" font-size="13" fill="#0E1726">2026-05-01</text>
+<rect x="113.0" y="76" width="256.5" height="18" rx="3" fill="#FF6B35"/>
+<text x="377.5" y="87" font-size="13" font-weight="600" fill="#0E1726">262</text>
+<text x="101" y="117" text-anchor="end" font-size="13" fill="#0E1726">2026-06-01</text>
+<rect x="113.0" y="106" width="238.8" height="18" rx="3" fill="#FF6B35"/>
+<text x="359.8" y="117" font-size="13" font-weight="600" fill="#0E1726">244</text>
+<text x="101" y="147" text-anchor="end" font-size="13" fill="#0E1726">2026-07-01</text>
+<rect x="113.0" y="136" width="235.9" height="18" rx="3" fill="#FF6B35"/>
+<text x="356.9" y="147" font-size="13" font-weight="600" fill="#0E1726">241</text>
+<text x="101" y="177" text-anchor="end" font-size="13" fill="#0E1726">2026-08-01</text>
+<rect x="113.0" y="166" width="245.7" height="18" rx="3" fill="#FF6B35"/>
+<text x="366.7" y="177" font-size="13" font-weight="600" fill="#0E1726">251</text>
+<text x="101" y="207" text-anchor="end" font-size="13" fill="#0E1726">2026-09-01</text>
+<rect x="113.0" y="196" width="555.0" height="18" rx="3" fill="#FF6B35"/>
+<text x="676.0" y="207" font-size="13" font-weight="600" fill="#0E1726">567</text>
+<text x="101" y="237" text-anchor="end" font-size="13" fill="#0E1726">2026-10-01</text>
+<rect x="113.0" y="226" width="249.6" height="18" rx="3" fill="#FF6B35"/>
+<text x="370.6" y="237" font-size="13" font-weight="600" fill="#0E1726">255</text>
+<text x="101" y="267" text-anchor="end" font-size="13" fill="#0E1726">2026-11-01</text>
+<rect x="113.0" y="256" width="249.6" height="18" rx="3" fill="#FF6B35"/>
+<text x="370.6" y="267" font-size="13" font-weight="600" fill="#0E1726">255</text>
+</svg>

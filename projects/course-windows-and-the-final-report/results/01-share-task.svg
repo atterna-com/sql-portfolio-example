@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="242" viewBox="0 0 720 242" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title id="t">share_pct by category</title>
+<desc id="d">Bar chart, 6 bars: Electronics 40.1; Clothing 18.8; Home &amp; Kitchen 16.8; Sports 11.2; Beauty 7; Kids 6.1</desc>
+<rect x="0.5" y="0.5" width="719" height="241" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="20" y="26" font-size="15" font-weight="700" fill="#0E1726">share_pct by category</text>
+<line x1="143.0" y1="42" x2="143.0" y2="224" stroke="#CBD5E1" stroke-width="1"/>
+<text x="131" y="57" text-anchor="end" font-size="13" fill="#0E1726">Electronics</text>
+<rect x="143.0" y="46" width="517.0" height="18" rx="3" fill="#FF6B35"/>
+<text x="668.0" y="57" font-size="13" font-weight="600" fill="#0E1726">40.1</text>
+<text x="131" y="87" text-anchor="end" font-size="13" fill="#0E1726">Clothing</text>
+<rect x="143.0" y="76" width="242.4" height="18" rx="3" fill="#FF6B35"/>
+<text x="393.4" y="87" font-size="13" font-weight="600" fill="#0E1726">18.8</text>
+<text x="131" y="117" text-anchor="end" font-size="13" fill="#0E1726">Home &amp; Kitchen</text>
+<rect x="143.0" y="106" width="216.6" height="18" rx="3" fill="#FF6B35"/>
+<text x="367.6" y="117" font-size="13" font-weight="600" fill="#0E1726">16.8</text>
+<text x="131" y="147" text-anchor="end" font-size="13" fill="#0E1726">Sports</text>
+<rect x="143.0" y="136" width="144.4" height="18" rx="3" fill="#FF6B35"/>
+<text x="295.4" y="147" font-size="13" font-weight="600" fill="#0E1726">11.2</text>
+<text x="131" y="177" text-anchor="end" font-size="13" fill="#0E1726">Beauty</text>
+<rect x="143.0" y="166" width="90.2" height="18" rx="3" fill="#FF6B35"/>
+<text x="241.2" y="177" font-size="13" font-weight="600" fill="#0E1726">7</text>
+<text x="131" y="207" text-anchor="end" font-size="13" fill="#0E1726">Kids</text>
+<rect x="143.0" y="196" width="78.6" height="18" rx="3" fill="#FF6B35"/>
+<text x="229.6" y="207" font-size="13" font-weight="600" fill="#0E1726">6.1</text>
+</svg>

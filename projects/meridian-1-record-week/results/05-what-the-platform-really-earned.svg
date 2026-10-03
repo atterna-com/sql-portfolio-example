@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="166" viewBox="0 0 720 166" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Platform contribution by week</title>
+<desc id="d">Bar chart, 3 bars: 2026-08-31 11,554; 2026-09-07 11,768; 2026-09-14 −9,985</desc>
+<rect x="0.5" y="0.5" width="719" height="165" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="20" y="26" font-size="15" font-weight="700" fill="#0E1726">Platform contribution by week</text>
+<text x="20" y="44" font-size="13" fill="#5B6677">contribution_eur by week_start</text>
+<line x1="357.6" y1="56" x2="357.6" y2="148" stroke="#CBD5E1" stroke-width="1"/>
+<text x="101" y="71" text-anchor="end" font-size="13" fill="#0E1726">2026-08-31</text>
+<rect x="357.6" y="60" width="283.1" height="18" rx="3" fill="#FF6B35"/>
+<text x="648.7" y="71" font-size="13" font-weight="600" fill="#0E1726">11,554</text>
+<text x="101" y="101" text-anchor="end" font-size="13" fill="#0E1726">2026-09-07</text>
+<rect x="357.6" y="90" width="288.4" height="18" rx="3" fill="#FF6B35"/>
+<text x="654.0" y="101" font-size="13" font-weight="600" fill="#0E1726">11,768</text>
+<text x="101" y="131" text-anchor="end" font-size="13" fill="#0E1726">2026-09-14</text>
+<rect x="113.0" y="120" width="244.6" height="18" rx="3" fill="#64748B"/>
+<text x="365.6" y="131" font-size="13" font-weight="600" fill="#0E1726">−9,985</text>
+</svg>
